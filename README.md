@@ -1,5 +1,7 @@
-Amina Aida\n
-Second Year Computer Science Student at McGill University\n
+Amina Aida
+
+Second Year Computer Science Student at McGill University
+
 [LinkedIn](https://www.linkedin.com/in/amina-aida-635683252/)
 
 <!---
